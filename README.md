@@ -268,7 +268,6 @@ autoencoder = Model(input_layer, decoded)
 ---
 
 ## Contributing
-Mohamed SAIFI: Cloud data Engineer
 
 **Pull requests welcome!**
 
@@ -285,4 +284,8 @@ Mohamed SAIFI: Cloud data Engineer
 **Learn more:**
 
 - [Isolation Forest Algorithm Paper](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf)
+
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/modules/outlier_detection.html)
+
+##Created By:
+Mohamed SAIFI: Cloud data Engineer
